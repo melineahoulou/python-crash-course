@@ -8,7 +8,8 @@ This repository documents my personal learning journey studying "Python Crash Co
  Chapter 1: Getting Started — 10/31
  
 🔜 Upcoming
-Chapter 2: Variables and Simple Data Types 
+
+ Chapter 2: Variables and Simple Data Types 
 
  Chapter 3: Introducing Lists
 
@@ -49,4 +50,4 @@ Chapter 2: Variables and Simple Data Types
  Chapter 20: Styling and Deploying an App
 
 📌 Resources
-Python Crash Course by Eric Matthes ([[(https://ehmatthes.github.io/pcc_3e/)]])
+Python Crash Course by Eric Matthes https://ehmatthes.github.io/pcc_3e/
