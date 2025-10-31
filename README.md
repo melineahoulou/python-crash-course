@@ -3,13 +3,13 @@ Python Crash Course by Eric Matthes - Study Journey
 This repository documents my personal learning journey studying "Python Crash Course".
 
 🧭 Roadmap
---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## PART I: BASICS
  Chapter 1: Getting Started — 10/31
  
 🔜 Upcoming
 
- - [x]Chapter 2: Variables and Simple Data Types 
+- [ ]Chapter 2: Variables and Simple Data Types 
 
  - [ ]Chapter 3: Introducing Lists
 
