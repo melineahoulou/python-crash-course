@@ -9,7 +9,7 @@ This repository documents my personal learning journey studying "Python Crash Co
  
 🔜 Upcoming
 
-- [ ]Chapter 2: Variables and Simple Data Types 
+- []Chapter 2: Variables and Simple Data Types 
 
  - [ ]Chapter 3: Introducing Lists
 
@@ -28,7 +28,8 @@ This repository documents my personal learning journey studying "Python Crash Co
  - [ ]Chapter 10: Files and Exceptions
 
  - [ ]Chapter 11: Testing Your Code
- 
+ - [ ] this is a task
+- [ ] this is another
 
 ## PART II: PROJECTS
  - [ ]Chapter 12: A Ship That Fires Bullets
